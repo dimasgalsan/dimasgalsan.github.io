@@ -1,0 +1,24 @@
+
+
+.jumbotron	{
+	padding-top: 6rem;
+	background-color: #e2edff;
+}
+
+#Myproject	{
+	background-color: #e2edff;
+}
+
+.lead	{
+	font-style: italic;
+}
+
+#Contactme h2	{
+	text-align: center;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+section	{
+	padding-top: 5rem;
+}
